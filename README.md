@@ -1,4 +1,4 @@
-# TCSG-POYRAZ-Resistance-and-Propulsion-Analysis
+
 # TCSG-POYRAZ Resistance and Propulsion Analysis
 
 This repository contains the numerical analysis and visualization scripts for the propulsion system design of the **51-meter Fast Patrol Boat, TCSG-POYRAZ**.
